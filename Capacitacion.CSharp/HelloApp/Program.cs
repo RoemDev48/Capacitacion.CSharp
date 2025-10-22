@@ -24,14 +24,38 @@ partial class Program // The main class is a container for methods
         //DataStructures();
         //Generics();
         #endregion
-        
+
         #region Section 3
         //Conditionals();
         //Loops();
         //FizzBuzz();
         //LoopControlExample();
         //LoopGame();
-        Conversions();
+        //Conversions();
+        //ConvertionToDateTime();
+        //Functions();
+        //HomeWork4();
+        //PrintFactorialTable();
+        //Tuples();
+        //AnonymousFunctions();
+        #endregion
+
+        #region Section 4
+        #endregion
+
+        #region Section 5
+        #endregion
+
+        #region Section 6
+        #endregion
+
+        #region Section 7
+        #endregion
+
+        #region Section 8
+        #endregion
+
+        #region Section 9
         #endregion
     }
 }
